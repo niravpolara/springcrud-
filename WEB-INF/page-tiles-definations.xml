@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>  
+     <!DOCTYPE tiles-definitions PUBLIC  
+        "-//Apache Software Foundation//DTD Tiles Configuration 3.0//EN"  
+        "http://tiles.apache.org/dtds/tiles-config_3_0.dtd"> 
+ <tiles-definitions>
+ 
+ 	<definition name="AdmissionForm" template="/jsp/AdmissionForm.jsp" /> 
+ 	<definition name="submitaddmissionform" template="/index.jsp"></definition>
+ 	<definition name="Admissionsuccess" template="/jsp/Admissionsuccess.jsp" />  
+ 	<definition name="employeelist" template="/jsp/employeelist.jsp"></definition>
+
+</tiles-definitions>
